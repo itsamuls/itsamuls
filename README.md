@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Amul Sinfal
+# Hi there 👋, I'm Amul
 
 **`Software Tester (Manual / Automation)`** 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsamuls&label=Profile%20views&color=0e75b6&style=flat" alt="itsamuls" /> </p>
