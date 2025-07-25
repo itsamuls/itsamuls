@@ -1,43 +1,68 @@
-# Hi there 👋, I'm Amul
+<h1 align="center">👋 Hi, I'm Amul Sinfal</h1>
 
-**`Software Tester (Manual / Automation)`** 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsamuls&label=Profile%20views&color=0e75b6&style=flat" alt="itsamuls" /> </p>
+<p align="center">
+  <b>ISTQB Certified Manual Tester</b> | <b>Automation Testing Enthusiast</b><br>
+  Contributed to Selenium POM Frameworks and passionate about expanding my automation expertise.
+</p>
 
-ISTQB Certified Tester with experience in manual and automation testing for web-based and Windows applications. Proficient in Agile and Waterfall methodologies, excelling in the Software Testing Lifecycle from requirement gathering and test planning to execution and bug reporting. Specialized in Black Box, Integration, Regression, GUI, and Exploratory Testing, transforming business requirements into precise functional specifications to ensure high-quality software delivery.
-<img align="right" alt="Coding" width="280" src="https://github.com/itsamuls/itsamuls/blob/main/focus-animation.gif" > <br/>
+---
 
-- 🔭 I’m currently focusing on **Improving my Test Automation skills**.<br/>
-- 👯 I’m looking to collaborate on **API Testing, Automation Testing, Selenium**.<br/>
-- 💬 Ask me about **Manual Testing, Selenium, Java, TestNG, Postman**.<br/>
-- 👨‍💻 All of my projects are available at **[https://github.com/itsamuls](https://github.com/itsamuls)**<br/>
+## 🚀 About Me
 
-#
-<h3 align="left">🧰 Languages and Tools:</h3>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-<img align="left" alt="Selenium" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
-<img align="left" alt="Cucumber" width="40px" style="padding-right:10px;" src="https://vectorwiki.com/images/PepxA__cucumber.svg"/>
-<img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Windows" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
-<br />
+- 🧪 **QA Tester** with **good experience** in **manual testing** and growing hands-on practice in automation
+- ✅ Practicing automation testing with **Selenium WebDriver**, **Java**, **TestNG**, and **Page Object Model (POM)**
+- 🌐 Gaining API testing experience through **Postman collections and test scripts**
+- 🤝 Comfortable working in Agile teams with active involvement in sprint testing and defect management
 
-#
-<article>
-	<h3>🔭 Automation Projects: </h3>
-		<ul>
-			<li><h4>Web Automation</h4></li>
-			<ul style="list-style-type:circle">
-				<li> <a href="https://github.com/itsamuls/opencart-cucumber-bdd-automation-framework">Cucumber BDD Automation Framework - Opencart website, a demo ecommerce website</a> </li>
-				<li> <a href="https://github.com/itsamuls/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website">Web UI Automation Framework using Selenium webdriver and Core Java - Guru99Bank website, a fictional banking website. </a> </li>
-				<li> <a href="https://github.com/itsamuls/TestNG-testing-framework-using-selenium-api">TestNG Testing Framework Project using Selenium webdriver and Java - www.Saucedemo.com, a fictional ecommerce website.</a> </li>
-				<li> <a href="https://github.com/itsamuls/Automated-test-cases-using-selenium-java-www.automationexercise.com">Automation Scripts using Selenium webdriver and Java - www.automationexercise.com, a fictional ecommerce website. </a> </li>
-			</ul>
-		</ul>
-		<ul>
-			<li><h4>API Testing</h4></li>
-			<ul style="list-style-type:circle">
-				<li> <a href="https://github.com/itsamuls/postman_api_testing_collections">Postman API testing Project</a> </li>
-			</ul>	
-		</ul>
-</article>
+---
+
+## 🌱 Currently Learning
+
+- 📈 How to build robust test automation frameworks (Hybrid, BDD)
+- 🧪 API Automation using RestAssured
+- ⚙️ Playwright and Cypress for modern automation
+
+---
+
+## 💬 Ask Me About
+
+- Functional & Regression Testing  
+- Writing Selenium WebDriver scripts in Java  
+- Automating test cases in Postman  
+- Agile QA Processes  
+
+---
+
+## 🧰 Tools & Technologies
+
+- 🖥️ **Programming & Automation**: Java, Selenium WebDriver, TestNG, Cucumber (BDD)
+- 🔍 **API Testing**: Postman
+- 🛠️ **Version Control**: Git & GitHub
+- 💻 **IDEs**: Eclipse
+
+---
+
+## 🧪 Automation Projects
+
+### 🖥️ Web UI Frameworks
+- 🔸 [Hybrid Framework (Selenium + Java + TestNG + POM)](#)
+- 🔸 [Cucumber BDD Framework (Java + Cucumber + BDD)](#)
+- 🔸 [TestNG Modular Framework (TestNG + Java + Selenium)](#)
+- 🔸 [Core Selenium Scripts (Java)](#)
+
+### 🔌 API Testing
+- 🔹 [Restful Booker API Test Collection using Postman](#)
+- 🔹 [General API Testing Collection using Postman](#)
+
+### ⚙️ Automation Framework Utilities
+- 🧾 [Properties File Data Reading](#)
+- 🕒 [Wait Strategies in Selenium](#)
+- 🧾 [Log4j2 Logging Integration](#)
+- 📋 [ITestListener for Event Logging](#)
+- 📊 [ExtentReports Integration](#)
+
+---
+
+## 📁 My GitHub Repositories
+
+Explore all my QA & Automation projects on 👉 [GitHub Repositories](https://github.com/amulsinfal)
